@@ -10,6 +10,7 @@ namespace PlayingwithGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("experimenting how to break git");
         }
     }
 }
